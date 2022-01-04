@@ -1,4 +1,4 @@
-I have coded up a few scripts in order to make analyzing the output of 
+I have coded up a few scripts in order to make analyzing the output 
 of NMR modelfree experiments a little easier. Take a look at the final output file of my protein("tem-1_E104K_800MHz.iter13.par"), It is very hard to deal with :(.
 
 It is especially difficult to extract the exchange value("Rex") so I decided to semi-automate the process.
