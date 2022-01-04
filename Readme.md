@@ -17,6 +17,10 @@ par.dat: I simply copied the unweildy "tem-1_E104K_800MHz.iter13.par" and remove
 If you have these files formatted the proper way you can easily get the desired csv file. 
 
 # Commands and tips on how to get CSV files
+0. pip install numpy 
+
+0.1 pip install pandas
+
 1. bash makeCHI.sh:
 (you might have to sligtly modify the output files if there are some length descrepancies between your other input files) 
 
